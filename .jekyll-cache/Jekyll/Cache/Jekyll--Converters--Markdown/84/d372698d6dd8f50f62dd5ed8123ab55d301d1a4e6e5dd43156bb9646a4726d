@@ -1,6 +1,4 @@
-I"�<p><img src="/img/prototypes/Prototypes_Logo.png" alt="" /></p>
-
-<h1 id="description">Description</h1>
+I"#<h1 id="description">Description</h1>
 
 <p>This game will comprise of several modes such as free roam or building. Tons
 of features will be added with time such as AIs, Vehicles (car, plane),
@@ -13,7 +11,14 @@ in the first/third person modes. Look out for weird bugs, improvements or what
 doesn’t seem to be smooth enough.</p>
 
 <h1 id="changelog">Changelog</h1>
-<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>  [Build 1]
+<div class="language-html highlighter-rouge"><div class="highlight"><pre class="highlight"><code>  [Build 2]
+
+  * 60 Playable Characters added (Total: 60)
+  * Improved jumping mechanism
+  * Better looking input methods
+  * Addition of a minimap
+
+  [Build 1]
 
   * Addition of First/Third Person cameras
   * Presence of Animations (idle, walk, run, jump)
@@ -23,10 +28,10 @@ doesn’t seem to be smooth enough.</p>
 
 <h3 id="technical-information--download">Technical Information / Download</h3>
 
-<figure class="highlight"><pre><code class="language-html" data-lang="html">Version Name: 0.1b
-Version Code: 1</code></pre></figure>
+<figure class="highlight"><pre><code class="language-html" data-lang="html">Version Name: 0.3b
+Version Code: 2</code></pre></figure>
 
-<p><a href="https://github.com/KinesisGames/Builds/raw/master/builds/prototypes/base.apk">Download Now!</a></p>
+<p><a href="https://github.com/KinesisGames/Builds/raw/master/builds/prototypes/prototypes_v0.3b2.apk">Download Now!</a></p>
 
 <p>Send us any <a href="mailto:feedback@kinesisgames.net">feedback</a> you have!</p>
 

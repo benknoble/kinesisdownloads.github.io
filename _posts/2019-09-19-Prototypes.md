@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      Prototypes
-date:       2019-09-20 00:00:00
+date:       2019-09-25 00:00:00
 summary:    Soon comprising of tons of features and game modes..
 status:     Active, Open Beta
 thumbnail:  
@@ -20,7 +20,14 @@ in the first/third person modes. Look out for weird bugs, improvements or what
 doesn't seem to be smooth enough.
 
 # Changelog
-```
+``` html
+  [Build 2]
+
+  * 60 Playable Characters added (Total: 60)
+  * Improved jumping mechanism
+  * Better looking input methods
+  * Addition of a minimap
+
   [Build 1]
 
   * Addition of First/Third Person cameras
@@ -32,11 +39,11 @@ doesn't seem to be smooth enough.
 ### Technical Information / Download
 
 {% highlight html %}
-Version Name: 0.1b
-Version Code: 1
+Version Name: 0.3b
+Version Code: 2
 {% endhighlight %}
 
-[Download Now!](https://github.com/KinesisGames/Builds/raw/master/builds/prototypes/base.apk)
+[Download Now!](https://github.com/KinesisGames/Builds/raw/master/builds/prototypes/Prototypes_v0.3b2.apk)
 
 Send us any [feedback](mailto:feedback@kinesisgames.net) you have!
 
