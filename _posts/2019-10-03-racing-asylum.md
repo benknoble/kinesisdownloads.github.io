@@ -2,8 +2,6 @@
 layout:     post
 title:      Racing Asylum
 date:       2019-10-03
-summary:    ???
-status:     ???
 ---
 
 # Description
